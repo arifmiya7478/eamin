@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0;
+}
+/* header section */
+.menu-container {
+    background-color: rgb(29, 27, 27);
+    display:flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-around;
+    color:white;
+    padding: 20px;
+
+}
+.menuBar {
+    display: flex;
+    /* float: left; */
+}
+#logo {
+    width: 120px;
+}
+.list {
+    margin-left: 10px;
+    font-size: 24px;
+    padding-left: 50px;
+}
+/* cover section */
