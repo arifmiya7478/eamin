@@ -152,3 +152,43 @@
     color: white;
     border-bottom: 5px solid red;
 }
+/* footer section */
+.main-footer {
+    background-color: black;
+    color:white;
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    height:230px;
+    padding:0px 50px;
+}
+.logo-footer {
+    width: 250px;
+}
+
+span.logo-info {
+    color: orangered;
+    font-size: 25px;
+}
+h3.use-title {
+    margin-bottom: revert;
+}
+h3.support-list {
+    margin-bottom: revert;
+}
+h3.info-contract {
+    margin-bottom: revert;
+}
+p.list-span {
+    padding-bottom: 7px;
+}
+p.support-list {
+    padding-bottom: 7px;
+}
+p.contract-list {
+    padding-bottom: 7px;
+}
+.allinone:hover {
+    text-decoration: underline;
+    color: orangered;
+}
