@@ -65,8 +65,8 @@
 
 }
 .btn {
-    width: 145px;
-    height: 55px;
+    width: 125px;
+    height: 45px;
     font-weight: bold;
     background-color: red;
     margin-top: 5px;
@@ -78,4 +78,27 @@
 .btn:hover {
     background-color: #ff5e3a;
     cursor: pointer;
+}
+/* about section */
+.title-div {
+    font-weight: bold;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    margin-top: 17px;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+.description {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 60vh;
+}
+.img-about {
+    width: 300px;
+}
+.spanOne {
+    font-size: 25px;
+    font-weight: bold;
 }
